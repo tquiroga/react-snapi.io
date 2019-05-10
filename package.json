@@ -1,0 +1,31 @@
+{
+  "name": "react-snapi",
+  "version": "1.0.0",
+  "description": "widget to receive pictures",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snapi"
+  ],
+  "author": "Rooser",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tquiroga/react-snapi.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tquiroga/react-snapi.io/issues"
+  },
+  "homepage": "https://github.com/tquiroga/react-snapi.io#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-proposal-class-properties": "^7.4.4"
+  }
+}
